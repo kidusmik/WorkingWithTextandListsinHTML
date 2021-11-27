@@ -7,6 +7,9 @@ body {
     background-image: url('./images/pattern.png');
 }
 
+#mainheader {
+    background-color: aqua;
+}
 
 #leftmenu {
     float: left;
